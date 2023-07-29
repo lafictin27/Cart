@@ -1,0 +1,26 @@
+.slidebar{
+    background-color: aquamarine;
+    display: flex;
+    gap: 20px;
+    overflow-y: scroll;
+    padding: 10px;
+}
+.module{
+    height: 400px;
+    width: 400px;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 20px;
+}
+.module img{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+.title{
+    margin-top: 35px;
+}
+.title h3{
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

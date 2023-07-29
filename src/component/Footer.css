@@ -1,0 +1,11 @@
+.footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 5px;
+    position:relative;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
